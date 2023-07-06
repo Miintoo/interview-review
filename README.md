@@ -9,7 +9,9 @@
 - setState가 비동기라면 그 이유에 대해서 설명해주세요.
 - useEffect와 useLayoutEffect 두개의 차이점은?
 - 비제어 컴포넌트가 실시간으로 동기화가 안되는데 거기에 대한 이유는?
-
+- JSX란 무엇인가요?
+- 리액트는 무엇이고 왜 React를 사용했나요?
+- SPA란 무엇인가요?
 ## HTML, CSS
 
 - section과 article 태그의 차이점에 대해서 설명해주세요.
